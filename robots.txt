@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ealibra.github.io/sitemap.html.gz
+Sitemap: https://ealibra.github.io/app/sitemap.html.gz
+Sitemap: https://ealibra.github.io/assets/sitemap.html.gz
+Sitemap: https://ealibra.github.io/css/sitemap.html.gz
+Sitemap: https://ealibra.github.io/data/sitemap.html.gz
+Sitemap: https://ealibra.github.io/includes/sitemap.html.gz
+Sitemap: https://ealibra.github.io/item/sitemap.html.gz
+Sitemap: https://ealibra.github.io/src/sitemap.html.gz
